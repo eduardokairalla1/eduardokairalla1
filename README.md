@@ -14,7 +14,7 @@
 💬 &nbsp;Feel free to reach out to me for tips, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ed! I'll try to respond as soon as I can.\
 
-<img src="https://i.pinimg.com/originals/18/9b/73/189b73d8bfa9e2244744dca531cddc35.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/18/9b/73/189b73d8bfa9e2244744dca531cddc35.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
