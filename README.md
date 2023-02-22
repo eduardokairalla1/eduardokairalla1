@@ -14,7 +14,7 @@
 💬 &nbsp;Feel free to reach out to me for tips, or just for some interesting discussion.\
 ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-<img alt="GIF" src="https://i.pinimg.com/originals/18/9b/73/189b73d8bfa9e2244744dca531cddc35.gif" align="right" width="350"/>
+<img alt="GIF" src="https://i.pinimg.com/originals/18/9b/73/189b73d8bfa9e2244744dca531cddc35.gif" align="right" width="350"/> <br>
 
 ### 🛠 &nbsp;Tech Stack
 
