@@ -7,8 +7,7 @@
 ##
 
 <div style="display: inline_block"><br> 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,c,python,html,css,javascript,&perline=5" /><br>
-  <a href="https://discord.gg/434066604742148106" class="fa-brands fa-discord"><img align="right" src="https://skillicons.dev/icons?i=discord"></a> 
+  <img src="https://skillicons.dev/icons?i=github,git,docker,c,python,go,mysql,html,css,linux,&perline=5" /><br>
   <a href="https://www.linkedin.com/in/eduardo-kairalla-74aa62289/" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
 
