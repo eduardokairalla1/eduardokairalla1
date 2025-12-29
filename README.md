@@ -10,7 +10,7 @@
 <p> 
   My website/portfolio: 
   <br>
-  <a href="https://www.eduardokairalla.com.br/"> www.eduardokairalla.com.br</a>
+  <a href="https://eduardokairalla.com.br/"> eduardokairalla.com.br</a>
 </p>
 
 </div>
@@ -25,32 +25,29 @@ I am a Backend Developer focused on Python and AI, creating scalable, secure, hi
 - 💼 Currently working as a Backend Developer & AI Specialist at <a href="https://2023.vulcanet.com.br/">VulcaNet - Systems and Engineering</a>
 - 🎓 Software Engineering student at PUC-Campinas
 - ⚡ Practical experience in Backend Development, AI applications, DevOps, systems integration, and cloud infrastructure
-- 💻 Linux enthusiast (especially Debian) and Open Source culture
-- 🚀 Proactive, with a history of entrepreneurship and a constant pursuit of new knowledge
-- 🎶 Lover of music and technology since childhood
-
-I work with an end-to-end mindset, combining development and infrastructure to deliver robust and well-structured systems. My goal is to transform ideas into real, scalable, and intelligent solutions.
+- 💻 Linux and Open Source culture enthusiast
+- 🎶 Lover of music and technology
 
 ---
 
 ## 🚀 Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,c,go,linux,git,docker,nginx,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,c,git,docker,linux&theme=dark" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 💸 BudgetCortex – Startup – Intelligent Financial Consulting
-> Innovative financial consulting platform integrated with a personal assistant via WhatsApp, connected to Open Finance.
+### 🧠 NeuraAI – Intelligent Research AI - Complete and Well-Founded Answers
+> Advanced AI system that performs multi-query web searches, synthesizes information from multiple sources, and returns comprehensive answers with automatic citations. Uses LangChain and LangGraph to orchestrate a multi-step AI pipeline with asynchronous parallel search.
 
 ### 📦 StockFlow API – REST API for inventory management with blockchain security
-> StockFlow API is a RESTful API developed in Python for inventory management, ensuring data integrity and auditability by anchoring transactions to the Bitcoin blockchain.
+> StockFlow API is a RESTful API developed in Python for inventory management, ensuring data integrity and audit through anchoring transactions on the Bitcoin blockchain.
 
-### 📞 Call Center (Twisted)
-> Call center in Python using the Twisted framework and Dockerized. Asynchronous project with real-time communication and call queue.
+### 📞 Call Center System
+> Call center management system developed with Python and Twisted. Supports multiple simultaneous clients via TCP, asynchronous JSON command processing, call queue, intelligent redistribution and customizable timeouts.
 
 ---
 
@@ -75,8 +72,13 @@ I work with an end-to-end mindset, combining development and infrastructure to d
 
 <table align="center">
   <tr>
-    <td>
-      <em>"There are no impossible problems, only solutions not yet discovered."</em>
+    <td align="center">
+      <em>
+        "Most good programmers do programming not because they expect to get paid or get adulation by the public,
+        but because it is fun to program."
+      </em>
+      <br><br>
+      <strong>— Linus Torvalds</strong>
     </td>
   </tr>
 </table>
