@@ -54,8 +54,8 @@ I am a Backend Developer focused on Python and AI, creating scalable, secure, hi
 ## 📊 Github Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardokairalla1&show_icons=true&theme=github_dark&include_all_yearly_contributions=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardokairalla1&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardokairalla1&show_icons=true&theme=react&include_all_yearly_contributions=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardokairalla1&layout=compact&theme=react"/>
 </div>
 
 ---
